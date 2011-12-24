@@ -5,14 +5,14 @@
 ]>
 <bookinfo id="book-KVM_Quick_Start_Guide-KVM_Quick_Start_Guide">
 	<title>KVM Quick Start Guide</title>
-	<subtitle>short description</subtitle>
+	<subtitle>A guide to quickly get your cloud up and running CloudStack and KVM.</subtitle>
 	<productname>CloudStack</productname>
 	<productnumber>3.0.0</productnumber>
 	<edition>0</edition>
 	<pubsnumber>0</pubsnumber>
 	<abstract>
 		<para>
-			A short overview and summary of the book's subject and purpose, traditionally no more than one paragraph long. Note: the abstract will appear in the front matter of your book and will also be placed in the description field of the book's RPM spec file.
+			This guide will help the user quickly create a single host cloud using CloudStack and KVM.  The procedure will combine all components onto the same server or onto multiple servers.
 		</para>
 	</abstract>
 	<corpauthor>
