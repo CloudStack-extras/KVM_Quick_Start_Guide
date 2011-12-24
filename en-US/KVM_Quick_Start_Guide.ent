@@ -1,0 +1,4 @@
+<!ENTITY PRODUCT "CloudStack">
+<!ENTITY BOOKID "KVM_Quick_Start_Guide">
+<!ENTITY YEAR "2011">
+<!ENTITY HOLDER "| You need to change the HOLDER entity in the en-US/KVM_Quick_Start_Guide.ent file |">
